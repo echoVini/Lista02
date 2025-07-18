@@ -1,0 +1,1 @@
+//A Lista Pontuada 02 não possui a questão 34
